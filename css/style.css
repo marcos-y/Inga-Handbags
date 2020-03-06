@@ -1,0 +1,103 @@
+.divheader {
+    background-color: white;
+    width: 1340px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.divsnav {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#div1 {
+    margin-right: 100px;
+    
+
+}
+
+#div3 {
+    margin-left: 100px;
+}
+
+.carrito {
+    height: 70px;
+    width: 200px;
+    background-color: indigo;
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+.carritopequeño {
+    height: 40px;
+    width: 200px;
+    background-color: ivory;
+    color: black;
+}
+
+.cuentaysesion {
+    height: 30px;
+    width: 200px;
+    background-color: khaki;
+    display: flex;
+}
+
+#botoncarrito {
+    background-color: lightgoldenrodyellow;
+    
+}
+
+#cuentysesion {
+    height: 60px;
+}
+
+.menu1 {
+    height: 100px;
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+
+.btn-secondary {
+    width: 120px;
+    background-color: white;
+    color: black;
+    border-color: white;
+ 
+}
+
+.carousel {
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+
+.collapse{
+    display:flex;
+    justify-content: space-around;
+}
+
+li {
+    margin:30px;   
+ }
+
+
